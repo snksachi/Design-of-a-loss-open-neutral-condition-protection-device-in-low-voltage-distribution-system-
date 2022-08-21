@@ -1,0 +1,2 @@
+# Design-of-a-loss-open-neutral-condition-protection-device-in-low-voltage-distribution-system-
+In this project, protection device and detection device. The protection device is  used to identify the overvoltage situation and disconnect the power supply at the faulted  premises. So we can protect the domestic electric appliances. The detection device is used to  detect the high voltage at the end of the distribution line and send the SMS to the CEB call  center. Therefor we can use this device as the useful for CEB and consumers.
